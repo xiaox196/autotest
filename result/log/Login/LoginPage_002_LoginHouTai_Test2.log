@@ -1,0 +1,27 @@
+[2016-11-18 15:59:26] [INFO] 当前操作系统是:[Windows 7]
+[2016-11-18 15:59:26] [INFO] 启动测试浏览器：[chrome]
+[2016-11-18 15:59:27] [INFO] 最大化浏览器:chrome
+[2016-11-18 15:59:29] [INFO] 打开测试页面:[http://igateway.wolaidai.com:8888/#/login]
+[2016-11-18 15:59:29] [INFO] loginSuccessFunction 测试用例开始执行！
+[2016-11-18 15:59:30] [INFO] 开始检查登录页面元素
+[2016-11-18 15:59:30] [INFO] 开始查找元素[By.xpath: /html/body/div[1]/div/div/div/div[3]/div/button]
+[2016-11-18 15:59:30] [INFO] 找到了元素 [By.xpath: /html/body/div[1]/div/div/div/div[3]/div/button]
+[2016-11-18 15:59:30] [INFO] 开始查找元素[By.name: username]
+[2016-11-18 15:59:30] [INFO] 找到了元素 [By.name: username]
+[2016-11-18 15:59:30] [INFO] 开始查找元素[By.name: password]
+[2016-11-18 15:59:30] [INFO] 找到了元素 [By.name: password]
+[2016-11-18 15:59:30] [INFO] 开始查找元素[By.xpath: //*[@id="login"]/form/div[2]/div/button]
+[2016-11-18 15:59:30] [INFO] 找到了元素 [By.xpath: //*[@id="login"]/form/div[2]/div/button]
+[2016-11-18 15:59:30] [INFO] 检查登录页面元素完毕
+[2016-11-18 15:59:30] [INFO] 开始输入登录信息
+[2016-11-18 15:59:30] [INFO] 点击元素 [By.xpath: /html/body/div[1]/div/div/div/div[3]/div/button]
+[2016-11-18 15:59:30] [INFO] 点击元素 [By.xpath: /html/body/div[1]/div/div/div/div[3]/div/ul/li[5]/a]
+[2016-11-18 15:59:30] [INFO] 点击元素 [By.xpath: /html/body/div[1]/div/div/div/div[3]/span/button]
+[2016-11-18 15:59:32] [INFO] 输入：[jojo] 到 [By.name: username]
+[2016-11-18 15:59:32] [INFO] 输入：[] 到 [By.name: password]
+[2016-11-18 15:59:32] [INFO] 点击元素 [By.xpath: //*[@id="login"]/form/div[2]/div/button]
+[2016-11-18 15:59:33] [ERROR] 输入 [111111] 到 元素[By.name: otpCode]失败
+[2016-11-18 15:59:33] [WARN] loginSuccessFunction 测试用例执行失败！
+[2016-11-18 15:59:33] [INFO] [2016_11_18_15_59_33_loginSuccessFunction] 截图成功，保存在：[ result/screenshot/2016_11_18_15_59_33_loginSuccessFunction.jpg ]
+[2016-11-18 15:59:33] [INFO] 执行失败的用例 = loginSuccessFunction
+[2016-11-18 15:59:33] [INFO] 执行失败的用例 = loginSuccessFunction

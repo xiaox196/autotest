@@ -1,0 +1,65 @@
+[2016-12-22 15:48:48] [INFO] 当前操作系统是:[Windows 7]
+[2016-12-22 15:48:48] [INFO] 启动测试浏览器：[chrome]
+[2016-12-22 15:48:52] [INFO] 最大化浏览器:chrome
+[2016-12-22 15:48:55] [INFO] 打开测试页面:[http://im1.wolaidai.com/staff/main.html#/login]
+[2016-12-22 15:48:55] [INFO] Register 测试用例开始执行！
+[2016-12-22 15:48:56] [INFO] 开始检查登录页面元素
+[2016-12-22 15:48:56] [INFO] 开始查找元素[By.xpath: //*[@id="app"]/div/div[2]/div/div[1]/div[2]/label]
+[2016-12-22 15:48:56] [INFO] 找到了元素 [By.xpath: //*[@id="app"]/div/div[2]/div/div[1]/div[2]/label]
+[2016-12-22 15:48:56] [INFO] 检查登录页面元素完毕
+[2016-12-22 15:48:56] [INFO] 输入元素：18833333322
+[2016-12-22 15:48:56] [INFO] 输入：[18833333322] 到 [By.name: mobile]
+[2016-12-22 15:48:56] [INFO] 输入：[888888] 到 [By.name: otp]
+[2016-12-22 15:48:56] [INFO] 点击操作
+[2016-12-22 15:48:56] [INFO] 点击元素 [By.xpath: //*[@id="app"]/div/div[2]/div/div[2]/div[2]/button]
+[2016-12-22 15:48:57] [INFO] 点击元素 [By.id: loginBtn]
+[2016-12-22 15:48:57] [INFO] 开始检查登录页面元素
+[2016-12-22 15:48:57] [INFO] 开始查找元素[By.xpath: //*[@id="app"]/div/div[6]/button]
+[2016-12-22 15:48:58] [INFO] 找到了元素 [By.xpath: //*[@id="app"]/div/div[6]/button]
+[2016-12-22 15:48:58] [INFO] 检查登录页面元素完毕
+[2016-12-22 15:48:58] [INFO] 执行了点击事件：HomePageHelper
+[2016-12-22 15:48:58] [INFO] 点击元素 [By.xpath: //*[@id="app"]/div/div[4]/a[1]]
+[2016-12-22 15:48:59] [INFO] 输入：[张三] 到 [By.id: name]
+[2016-12-22 15:48:59] [INFO] 输入：[230722198212276670] 到 [By.id: cnid]
+[2016-12-22 15:48:59] [INFO] 点击元素 [By.xpath: //*[@id="app"]/div/div[2]/div[4]/div[2]/div/div/div/div/div]
+[2016-12-22 15:48:59] [INFO] 点击元素 [By.linkText: 完成]
+[2016-12-22 15:49:00] [WARN] By.xpath: //*[@id="app"]/div/div[3]/button is unclickable, try again
+[2016-12-22 15:49:00] [INFO] 点击元素 [By.xpath: //*[@id="app"]/div/div[3]/button]
+[2016-12-22 15:49:03] [INFO] 开始检查登录页面元素
+[2016-12-22 15:49:03] [INFO] 开始查找元素[By.xpath: //*[@id="app"]/div/div[6]/button]
+[2016-12-22 15:49:03] [INFO] 找到了元素 [By.xpath: //*[@id="app"]/div/div[6]/button]
+[2016-12-22 15:49:03] [INFO] 检查登录页面元素完毕
+[2016-12-22 15:49:03] [INFO] 执行了点击事件：HomePageHelper
+[2016-12-22 15:49:03] [INFO] 点击元素 [By.xpath: //*[@id="app"]/div/div[4]/a[2]/span]
+[2016-12-22 15:49:03] [INFO] 输入：[自动化测试] 到 [By.id: company]
+[2016-12-22 15:49:03] [INFO] 点击元素 [By.xpath: //*[@id="app"]/div/div[2]/div[2]/div[2]/div/div/div/div/div]
+[2016-12-22 15:49:03] [INFO] 点击元素 [By.linkText: 完成]
+[2016-12-22 15:49:03] [INFO] 输入：[075588888877] 到 [By.xpath: //*[@id="telephone"]]
+[2016-12-22 15:49:03] [INFO] 点击元素 [By.xpath: //*[@id="app"]/div/div[2]/div[4]/div[2]/div[1]/div/div/div/div]
+[2016-12-22 15:49:04] [WARN] By.linkText: 完成 is unclickable, try again
+[2016-12-22 15:49:04] [INFO] 点击元素 [By.linkText: 完成]
+[2016-12-22 15:49:04] [INFO] 输入：[球球大战星球] 到 [By.id: street]
+[2016-12-22 15:49:04] [INFO] 点击元素 [By.xpath: //*[@id="app"]/div/div[3]/button]
+[2016-12-22 15:49:07] [INFO] 开始检查登录页面元素
+[2016-12-22 15:49:07] [INFO] 开始查找元素[By.xpath: //*[@id="app"]/div/div[6]/button]
+[2016-12-22 15:49:07] [INFO] 找到了元素 [By.xpath: //*[@id="app"]/div/div[6]/button]
+[2016-12-22 15:49:07] [INFO] 检查登录页面元素完毕
+[2016-12-22 15:49:07] [INFO] 执行了点击事件：HomePageHelper
+[2016-12-22 15:49:07] [INFO] 点击元素 [By.xpath: //*[@id="app"]/div/div[4]/a[4]]
+[2016-12-22 15:49:08] [INFO] 输入：[马云] 到 [By.id: name]
+[2016-12-22 15:49:08] [INFO] 输入：[18812345678] 到 [By.id: mobile]
+[2016-12-22 15:49:08] [INFO] 点击元素 [By.xpath: //*[@id="app"]/div/div[2]/button]
+[2016-12-22 15:49:10] [INFO] 开始检查登录页面元素
+[2016-12-22 15:49:10] [INFO] 开始查找元素[By.xpath: //*[@id="app"]/div/div[6]/button]
+[2016-12-22 15:49:10] [INFO] 找到了元素 [By.xpath: //*[@id="app"]/div/div[6]/button]
+[2016-12-22 15:49:10] [INFO] 检查登录页面元素完毕
+[2016-12-22 15:49:10] [INFO] 执行了点击事件：HomePageHelper
+[2016-12-22 15:49:10] [INFO] 点击元素 [By.xpath: //*[@id="app"]/div/div[4]/a[5]]
+[2016-12-22 15:49:10] [INFO] 上传文件,文件地址为：G:\android_project\autotest\idpic.jpg
+[2016-12-22 15:49:10] [INFO] 上传文件,文件地址为：G:\android_project\autotest\idpic.jpg
+[2016-12-22 15:49:10] [INFO] 上传文件,文件地址为：G:\android_project\autotest\idpic.jpg
+[2016-12-22 15:49:11] [INFO] 上传文件,文件地址为：G:\android_project\autotest\idpic.jpg
+[2016-12-22 15:49:13] [INFO] 点击元素 [By.xpath: //*[@id="h5_upload"]/div[3]/button]
+[2016-12-22 15:49:13] [INFO] 点击元素 [By.xpath: //*[@id="app"]/div/div[6]/button]
+[2016-12-22 15:49:13] [INFO] Register 测试用例执行成功！
+[2016-12-22 15:49:13] [INFO] 执行成功的用例 = Register

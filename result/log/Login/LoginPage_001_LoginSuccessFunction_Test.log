@@ -1,0 +1,35 @@
+[2016-11-07 18:11:18] [INFO] 当前操作系统是:[Windows 7]
+[2016-11-07 18:11:18] [INFO] 启动测试浏览器：[chrome]
+[2016-11-07 18:11:19] [INFO] 最大化浏览器:chrome
+[2016-11-07 18:11:21] [INFO] 打开测试页面:[http://igateway.wolaidai.com:8888/#/login]
+[2016-11-07 18:11:21] [INFO] loginSuccessFunction 测试用例开始执行！
+[2016-11-07 18:11:22] [INFO] 开始检查登录页面元素
+[2016-11-07 18:11:22] [INFO] 开始查找元素[By.xpath: /html/body/div[1]/div/div/div/div[3]/div/button]
+[2016-11-07 18:11:26] [INFO] 找到了元素 [By.xpath: /html/body/div[1]/div/div/div/div[3]/div/button]
+[2016-11-07 18:11:26] [INFO] 开始查找元素[By.name: username]
+[2016-11-07 18:11:26] [INFO] 找到了元素 [By.name: username]
+[2016-11-07 18:11:26] [INFO] 开始查找元素[By.name: password]
+[2016-11-07 18:11:26] [INFO] 找到了元素 [By.name: password]
+[2016-11-07 18:11:26] [INFO] 开始查找元素[By.xpath: //*[@id="login"]/form/div[2]/div/button]
+[2016-11-07 18:11:26] [INFO] 找到了元素 [By.xpath: //*[@id="login"]/form/div[2]/div/button]
+[2016-11-07 18:11:26] [INFO] 检查登录页面元素完毕
+[2016-11-07 18:11:26] [INFO] 开始输入登录信息
+[2016-11-07 18:11:26] [INFO] 点击元素 [By.xpath: /html/body/div[1]/div/div/div/div[3]/div/button]
+[2016-11-07 18:11:26] [INFO] 点击元素 [By.xpath: /html/body/div[1]/div/div/div/div[3]/div/ul/li[5]/a]
+[2016-11-07 18:11:26] [INFO] 点击元素 [By.xpath: /html/body/div[1]/div/div/div/div[3]/span/button]
+[2016-11-07 18:11:27] [INFO] 输入：[13045898662] 到 [By.name: username]
+[2016-11-07 18:11:27] [INFO] 输入：[888888] 到 [By.name: password]
+[2016-11-07 18:11:27] [INFO] 点击元素 [By.xpath: //*[@id="login"]/form/div[2]/div/button]
+[2016-11-07 18:11:29] [INFO] 输入：[111111] 到 [By.name: otpCode]
+[2016-11-07 18:11:29] [INFO] 点击元素 [By.xpath: //*[@id="CAPTCHA"]/form/div[2]/div/button]
+[2016-11-07 18:11:29] [INFO] 输入登录信息完毕
+[2016-11-07 18:11:29] [WARN] By.xpath: //*[@id="login"]/form/div[2]/div/button is unclickable, try again
+[2016-11-07 18:11:30] [WARN] By.xpath: //*[@id="login"]/form/div[2]/div/button is unclickable, try again
+[2016-11-07 18:11:30] [WARN] By.xpath: //*[@id="login"]/form/div[2]/div/button is unclickable, try again
+[2016-11-07 18:11:31] [WARN] By.xpath: //*[@id="login"]/form/div[2]/div/button is unclickable, try again
+[2016-11-07 18:11:31] [WARN] By.xpath: //*[@id="login"]/form/div[2]/div/button is unclickable, try again
+[2016-11-07 18:11:31] [WARN] By.xpath: //*[@id="login"]/form/div[2]/div/button is unclickable
+[2016-11-07 18:11:31] [ERROR] Failed to click element [By.xpath: //*[@id="login"]/form/div[2]/div/button]
+[2016-11-07 18:11:31] [WARN] loginSuccessFunction 测试用例执行失败！
+[2016-11-07 18:11:31] [INFO] [2016_11_07_18_11_31_loginSuccessFunction] 截图成功，保存在：[ result/screenshot/2016_11_07_18_11_31_loginSuccessFunction.jpg ]
+[2016-11-07 18:11:31] [INFO] 执行失败的用例 = loginSuccessFunction

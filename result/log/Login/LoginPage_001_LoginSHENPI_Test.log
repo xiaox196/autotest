@@ -1,0 +1,18 @@
+[2016-12-21 10:45:16] [INFO] 当前操作系统是:[Windows 7]
+[2016-12-21 10:45:16] [INFO] 启动测试浏览器：[chrome]
+[2016-12-21 10:45:28] [INFO] 最大化浏览器:chrome
+[2016-12-21 10:45:31] [INFO] 打开测试页面:[http://im1.wolaidai.com/staff/main.html#/login]
+[2016-12-21 10:45:31] [INFO] loginSuccessFunction 测试用例开始执行！
+[2016-12-21 10:45:32] [INFO] 开始检查登录页面元素
+[2016-12-21 10:45:32] [INFO] 开始查找元素[By.name: username]
+[2016-12-21 10:45:37] [WARN] loginSuccessFunction 测试用例执行失败！
+[2016-12-21 10:45:39] [ERROR] [2016_12_21_10_45_37_loginSuccessFunction] ,截图失败，原因：chrome not reachable
+  (Session info: chrome=51.0.2704.106)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.01 seconds
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'coco-HP', ip: '172.30.46.108', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=C:\Users\coco\AppData\Local\Temp\scoped_dir13468_8910}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=51.0.2704.106, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 22d320df2731f8c7227f653c15a2a36c
+[2016-12-21 10:45:39] [INFO] 执行失败的用例 = loginSuccessFunction
